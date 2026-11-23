@@ -42,7 +42,7 @@ def build():
     ignore = shutil.ignore_patterns("__pycache__", "*.pyc")
     shutil.copytree(ROOT / "src", destination / "src", ignore=ignore)
     runtime_assets = copy_runtime_assets(destination)
-    for name in ("main.py", "README.md", "requirements.txt"):
+    for name in ("main.py", "README.md", "requirements.txt", "LICENSE"):
         shutil.copy2(ROOT / name, destination / name)
     for name in ("docs", "screenshots", "configs", "logs"):
         (destination / name).mkdir()
