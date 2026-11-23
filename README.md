@@ -9,7 +9,7 @@
   </p>
   <p>
     <a href="https://github.com/moxinbaige/ok-horizon-walker/releases/latest">📥 GitHub 下载</a> ·
-    <a href="https://pan.baidu.com/s/19hvCqjPxX2SMypBDnicbWQ?pwd=1111">☁️ 百度网盘</a> ·
+    <a href="https://pan.baidu.com/s/1GFy0M32C_abSjZNGjN85Ig?pwd=1111">☁️ 百度网盘</a> ·
     <a href="#快速上手">🚀 快速上手</a> ·
     <a href="#问题反馈">🛠️ 问题反馈</a> ·
     <a href="https://cnb.cool/moxinbaige/ok-horizon-walker/-/blob/main/SPONSOR.md">💖 支持开发</a>
@@ -37,7 +37,7 @@
 
 ## 快速上手
 
-1. **下载并解压。** 从 [GitHub Releases](https://github.com/moxinbaige/ok-horizon-walker/releases/latest) 或 [百度网盘（备用，提取码 `1111`）](https://pan.baidu.com/s/19hvCqjPxX2SMypBDnicbWQ?pwd=1111) 下载 Windows 便携 ZIP。完整解压后双击 `HorizonDaily.exe`，确认 Windows 管理员提示。
+1. **下载并解压。** 从 [GitHub Releases](https://github.com/moxinbaige/ok-horizon-walker/releases/latest) 或 [百度网盘（备用，提取码 `1111`）](https://pan.baidu.com/s/1GFy0M32C_abSjZNGjN85Ig?pwd=1111) 下载 Windows 便携 ZIP。完整解压后双击 `HorizonDaily.exe`，确认 Windows 管理员提示。
 2. **设置本轮任务。** 打开 Steam 版游戏并停在首页。在助手的「任务 → 每日任务」选择要执行的步骤和讨伐目标。
 3. **开始运行。** 到「运行概览」点「开始每日任务」。需要中途停止时按 **F9**。
 
