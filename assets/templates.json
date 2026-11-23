@@ -1,0 +1,770 @@
+{
+  "home_icon": {
+    "second": 211,
+    "crop": [
+      1795,
+      48,
+      1842,
+      94
+    ],
+    "search": [
+      1755,
+      5,
+      1885,
+      125
+    ],
+    "threshold": 0.86
+  },
+  "popup_close_dark": {
+    "second": 147,
+    "crop": [
+      1683,
+      77,
+      1714,
+      109
+    ],
+    "search": [
+      700,
+      25,
+      1910,
+      600
+    ],
+    "threshold": 0.86
+  },
+  "popup_close_light": {
+    "second": 155,
+    "crop": [
+      1701,
+      148,
+      1737,
+      184
+    ],
+    "search": [
+      700,
+      25,
+      1910,
+      600
+    ],
+    "threshold": 0.86
+  },
+  "phone_stage": {
+    "second": 448,
+    "crop": [
+      1518,
+      490,
+      1596,
+      535
+    ],
+    "search": [
+      1400,
+      400,
+      1750,
+      600
+    ],
+    "threshold": 0.86
+  },
+  "phone_checklist": {
+    "second": 448,
+    "crop": [
+      1515,
+      790,
+      1576,
+      853
+    ],
+    "search": [
+      1400,
+      730,
+      1680,
+      930
+    ],
+    "threshold": 0.86
+  },
+  "phone_shop": {
+    "second": 448,
+    "crop": [
+      1260,
+      135,
+      1350,
+      176
+    ],
+    "search": [
+      1190,
+      100,
+      1440,
+      220
+    ],
+    "threshold": 0.86
+  },
+  "phone_resource": {
+    "second": 159,
+    "crop": [
+      1085,
+      450,
+      1150,
+      513
+    ],
+    "search": [
+      1040,
+      420,
+      1190,
+      540
+    ],
+    "threshold": 0.86
+  },
+  "coin_map": {
+    "second": 211,
+    "crop": [
+      745,
+      264,
+      789,
+      305
+    ],
+    "search": [
+      250,
+      160,
+      1880,
+      950
+    ],
+    "threshold": 0.86
+  },
+  "coin_detail": {
+    "second": 214,
+    "crop": [
+      976,
+      723,
+      1064,
+      800
+    ],
+    "search": [
+      900,
+      690,
+      1140,
+      840
+    ],
+    "threshold": 0.86
+  },
+  "wish_complete": {
+    "second": 350,
+    "crop": [
+      709,
+      261,
+      787,
+      284
+    ],
+    "search": [
+      300,
+      180,
+      1860,
+      950
+    ],
+    "threshold": 0.86
+  },
+  "coin_price": {
+    "second": 189,
+    "crop": [
+      934,
+      852,
+      967,
+      884
+    ],
+    "search": [
+      820,
+      820,
+      1080,
+      900
+    ],
+    "threshold": 0.86
+  },
+  "chest_open": {
+    "second": 443,
+    "crop": [
+      1724,
+      252,
+      1782,
+      308
+    ],
+    "search": [
+      960,
+      230,
+      1810,
+      325
+    ],
+    "threshold": 0.86
+  },
+  "chest_closed": {
+    "second": 440,
+    "crop": [
+      1724,
+      252,
+      1782,
+      308
+    ],
+    "search": [
+      960,
+      230,
+      1810,
+      325
+    ],
+    "threshold": 0.86
+  },
+  "auto_on": {
+    "second": 276,
+    "crop": [
+      150,
+      58,
+      189,
+      91
+    ],
+    "search": [
+      130,
+      35,
+      205,
+      110
+    ],
+    "threshold": 0.86
+  },
+  "battle_pause": {
+    "second": 276,
+    "crop": [
+      62,
+      61,
+      85,
+      91
+    ],
+    "search": [
+      40,
+      35,
+      110,
+      110
+    ],
+    "threshold": 0.86
+  },
+  "home_guard": {
+    "source": "home_guard_reference.png",
+    "crop": [
+      22,
+      18,
+      84,
+      96
+    ],
+    "search": [
+      1570,
+      590,
+      1770,
+      770
+    ],
+    "threshold": 0.88
+  },
+  "popup_close_panel": {
+    "source": "resource_panel_evidence.png",
+    "crop": [
+      1834,
+      94,
+      1875,
+      135
+    ],
+    "search": [
+      700,
+      25,
+      1910,
+      600
+    ],
+    "threshold": 0.88
+  },
+  "sign_in_pending": {
+    "source": "checklist_sign_in_evidence.png",
+    "crop": [
+      1724,
+      568,
+      1755,
+      604
+    ],
+    "search": [
+      800,
+      350,
+      1850,
+      920
+    ],
+    "threshold": 0.88
+  },
+  "sign_in_checked": {
+    "source": "checklist_sign_in_evidence.png",
+    "crop": [
+      1083,
+      510,
+      1155,
+      559
+    ],
+    "search": [
+      800,
+      350,
+      1850,
+      920
+    ],
+    "threshold": 0.88
+  },
+  "popup_close_tribute": {
+    "source": "tribute_panel_evidence.png",
+    "crop": [
+      1682,
+      235,
+      1740,
+      292
+    ],
+    "search": [
+      700,
+      25,
+      1910,
+      600
+    ],
+    "threshold": 0.88
+  },
+  "shop_home": {
+    "source": "shop_home_evidence.png",
+    "crop": [
+      1801,
+      39,
+      1858,
+      95
+    ],
+    "search": [
+      1760,
+      10,
+      1890,
+      130
+    ],
+    "threshold": 0.88
+  },
+  "battle_next": {
+    "source": "battle_clear_evidence.png",
+    "crop": [
+      1670,
+      950,
+      1837,
+      1008
+    ],
+    "search": [
+      1480,
+      900,
+      1910,
+      1070
+    ],
+    "threshold": 0.88
+  },
+  "battle_exit": {
+    "source": "battle_exit_evidence.png",
+    "crop": [
+      1663,
+      952,
+      1767,
+      1009
+    ],
+    "search": [
+      1480,
+      900,
+      1910,
+      1070
+    ],
+    "threshold": 0.88
+  },
+  "recovery_exit": {
+    "source": "recovery_reference_110.jpg",
+    "crop": [
+      1330,
+      958,
+      1415,
+      1007
+    ],
+    "search": [
+      1190,
+      900,
+      1510,
+      1060
+    ],
+    "threshold": 0.88
+  },
+  "phone_mail": {
+    "source": "recovery_reference_234.jpg",
+    "crop": [
+      1522,
+      995,
+      1575,
+      1031
+    ],
+    "search": [
+      1470,
+      950,
+      1620,
+      1070
+    ],
+    "threshold": 0.88
+  },
+  "mail_all": {
+    "source": "recovery_reference_236.jpg",
+    "crop": [
+      195,
+      980,
+      458,
+      1045
+    ],
+    "search": [
+      140,
+      940,
+      510,
+      1070
+    ],
+    "threshold": 0.88
+  },
+  "mail_claimed": {
+    "source": "recovery_reference_244.jpg",
+    "crop": [
+      103,
+      318,
+      141,
+      349
+    ],
+    "search": [
+      70,
+      260,
+      175,
+      1020
+    ],
+    "threshold": 0.88
+  },
+  "shop_order_close": {
+    "source": "shop_order_unavailable_evidence.png",
+    "crop": [
+      1207,
+      158,
+      1243,
+      196
+    ],
+    "search": [
+      1100,
+      100,
+      1300,
+      280
+    ],
+    "threshold": 0.88
+  },
+  "popup_close_costume": {
+    "source": "popup_costume_evidence.png",
+    "crop": [
+      1836,
+      227,
+      1883,
+      274
+    ],
+    "search": [
+      700,
+      25,
+      1910,
+      600
+    ],
+    "threshold": 0.88
+  },
+  "shop_new_home": {
+    "source": "nov06_shop_new_list.png",
+    "crop": [
+      1790,
+      35,
+      1865,
+      100
+    ],
+    "search": [
+      1750,
+      0,
+      1900,
+      140
+    ],
+    "threshold": 0.9
+  },
+  "event_phone": {
+    "source": "nov06_event_phone.png",
+    "crop": [
+      1510,
+      150,
+      1720,
+      225
+    ],
+    "search": [
+      1450,
+      70,
+      1790,
+      290
+    ],
+    "threshold": 0.9
+  },
+  "event_combat": {
+    "source": "nov06_event_map.png",
+    "crop": [
+      376,
+      307,
+      435,
+      358
+    ],
+    "search": [
+      250,
+      180,
+      1920,
+      850
+    ],
+    "threshold": 0.9
+  },
+  "event_three_stars": {
+    "source": "nov06_event_map.png",
+    "crop": [
+      365,
+      361,
+      446,
+      391
+    ],
+    "search": [
+      250,
+      180,
+      1920,
+      850
+    ],
+    "threshold": 0.9
+  },
+  "event_dialogue": {
+    "source": "nov06_event_map.png",
+    "crop": [
+      1807,
+      302,
+      1883,
+      379
+    ],
+    "search": [
+      250,
+      180,
+      1920,
+      850
+    ],
+    "threshold": 0.9
+  },
+  "event_checked": {
+    "source": "nov06_event_signin.png",
+    "crop": [
+      691,
+      311,
+      763,
+      372
+    ],
+    "search": [
+      640,
+      230,
+      1720,
+      800
+    ],
+    "threshold": 0.9
+  },
+  "event_chest_open": {
+    "source": "nov06_event_schedule_done.png",
+    "crop": [
+      1099,
+      218,
+      1183,
+      295
+    ],
+    "search": [
+      700,
+      200,
+      1570,
+      340
+    ],
+    "threshold": 0.9
+  },
+  "event_chest_closed": {
+    "source": "nov06_event_schedule.png",
+    "crop": [
+      1099,
+      218,
+      1183,
+      295
+    ],
+    "search": [
+      700,
+      200,
+      1570,
+      340
+    ],
+    "threshold": 0.9
+  },
+  "inventory_full": {
+    "source": "nov06_inventory_full.png",
+    "crop": [
+      700,
+      460,
+      1195,
+      515
+    ],
+    "search": [
+      650,
+      420,
+      1260,
+      560
+    ],
+    "threshold": 0.9
+  },
+  "shop_new_order_close": {
+    "source": "nov06_shop_new_order.png",
+    "crop": [
+      1207,
+      158,
+      1243,
+      196
+    ],
+    "search": [
+      1100,
+      100,
+      1300,
+      280
+    ],
+    "threshold": 0.9
+  },
+  "event_panel_close": {
+    "source": "nov06_event_signin.png",
+    "crop": [
+      1660,
+      160,
+      1700,
+      201
+    ],
+    "search": [
+      1630,
+      130,
+      1720,
+      230
+    ],
+    "threshold": 0.9
+  },
+  "event_schedule_close": {
+    "source": "nov06_event_schedule.png",
+    "crop": [
+      1535,
+      120,
+      1575,
+      146
+    ],
+    "search": [
+      1510,
+      85,
+      1600,
+      170
+    ],
+    "threshold": 0.9
+  },
+  "event_combat_idle": {
+    "source": "nov06_event_map.png",
+    "crop": [
+      856,
+      307,
+      915,
+      358
+    ],
+    "search": [
+      250,
+      180,
+      1920,
+      850
+    ],
+    "threshold": 0.9
+  },
+  "event_map_back": {
+    "source": "nov06_event_map.png",
+    "crop": [
+      40,
+      25,
+      115,
+      100
+    ],
+    "search": [
+      0,
+      0,
+      160,
+      150
+    ],
+    "threshold": 0.9
+  },
+  "event_daily_all": {
+    "source": "nov06_event_schedule.png",
+    "crop": [
+      1340,
+      894,
+      1500,
+      935
+    ],
+    "search": [
+      1280,
+      850,
+      1700,
+      950
+    ],
+    "threshold": 0.9
+  },
+  "event_missions_all": {
+    "source": "nov06_event_missions.png",
+    "crop": [
+      1510,
+      880,
+      1665,
+      922
+    ],
+    "search": [
+      1280,
+      850,
+      1700,
+      950
+    ],
+    "threshold": 0.9
+  },
+  "event_dopamine_phone": {
+    "source": "nov19_phone.png",
+    "crop": [
+      1505,
+      145,
+      1725,
+      225
+    ],
+    "search": [
+      1450,
+      90,
+      1790,
+      285
+    ],
+    "threshold": 0.9
+  },
+  "event_dopamine_signin_close": {
+    "source": "nov19_signin.png",
+    "crop": [
+      1678,
+      160,
+      1698,
+      178
+    ],
+    "search": [
+      1630,
+      130,
+      1720,
+      230
+    ],
+    "threshold": 0.9
+  },
+  "event_dopamine_daily_close": {
+    "source": "nov19_schedule.png",
+    "crop": [
+      1537,
+      109,
+      1575,
+      142
+    ],
+    "search": [
+      1510,
+      85,
+      1600,
+      170
+    ],
+    "threshold": 0.9
+  }
+}
