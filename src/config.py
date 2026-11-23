@@ -3,9 +3,8 @@ from datetime import datetime
 from src.interaction import HorizonInteraction
 
 
-# Set these after the official repository and sponsorship page are confirmed.
 GITHUB_REPOSITORY = "moxinbaige/ok-horizon-walker"
-SPONSOR_URL = ""
+SPONSOR_URL = "https://cnb.cool/moxinbaige/ok-horizon-walker/-/blob/main/SPONSOR.md"
 
 
 def make_config():
