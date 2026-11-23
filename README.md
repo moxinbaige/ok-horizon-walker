@@ -37,8 +37,10 @@
 
 ## 快速上手
 
+**视频版使用说明** · [在哔哩哔哩观看](https://www.bilibili.com/video/BV1nNyHzsE8G/)
+
 1. **下载并解压。** 从 [GitHub Releases](https://github.com/moxinbaige/ok-horizon-walker/releases/latest) 或 [百度网盘（备用，提取码 `1111`）](https://pan.baidu.com/s/1GFy0M32C_abSjZNGjN85Ig?pwd=1111) 下载 Windows 便携 ZIP。完整解压后双击 `HorizonDaily.exe`，确认 Windows 管理员提示。
-2. **设置本轮任务。** 打开 Steam 版游戏并停在首页。在助手的「任务 → 每日任务」选择要执行的步骤和讨伐目标。
+2. **设置本轮任务。** 打开 Steam 版游戏，点击「点击屏幕继续」进入首页。看到活动弹窗后，即可切回助手配置。在助手的「任务 → 每日任务」选择要执行的步骤和讨伐目标。
 3. **开始运行。** 到「运行概览」点「开始每日任务」。需要中途停止时按 **F9**。
 
 使用简体中文游戏界面和 **16:9** 画面，推荐 **1920×1080**。游戏窗口可以被其他窗口遮挡，请保持展开。助手点击时可能短暂移动鼠标。
